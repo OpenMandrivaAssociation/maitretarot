@@ -1,6 +1,6 @@
 %define name maitretarot
 %define version 0.1.98
-%define release %mkrel 6
+%define release %mkrel 7
 
 Summary: The Maitretarot Server
 Name: %{name}
