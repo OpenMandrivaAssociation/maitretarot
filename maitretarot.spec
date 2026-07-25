@@ -1,6 +1,6 @@
 %define name maitretarot
 %define version 0.1.98
-%define release %mkrel 7
+%define release 8
 
 Summary: The Maitretarot Server
 Name: %{name}
@@ -25,8 +25,8 @@ that is a library for both the server and any client.
 Warning: To play, you need to install one maitretarot-client.
 
 %description -l fr
-Maitretarot est le serveur pour un jeu de tarot. Il nécessite 
-libmaitretarot qui est une bibliothèque pour le serveur comme 
+Maitretarot est le serveur pour un jeu de tarot. Il nï¿½cessite 
+libmaitretarot qui est une bibliothï¿½que pour le serveur comme 
 pour certains clients.
 
 Attention: pour jouer, vous devez installer un des packages
